@@ -1,0 +1,1 @@
+basic add/remove class by clicking on button, looks ok and unique but i dont think i would use this again.
