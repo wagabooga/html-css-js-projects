@@ -1,0 +1,1 @@
+use even/uneven to change the direction when scrolling. add scroll effect when screen comes visible
