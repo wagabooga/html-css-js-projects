@@ -1,0 +1,1 @@
+simple onclick effect that adds flavor to a form
