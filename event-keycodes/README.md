@@ -1,0 +1,1 @@
+Useful example showcase of reading key inputs from the user, Identifying the difference between the event fired's event.key, event.keyCode, and event.code
