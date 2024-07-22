@@ -1,0 +1,1 @@
+personally i would not use this design but it does look cool and demonstrates a good way to do a dropdown nav. I would improve on this by adding media queries so that it is by default closed on mobile-tablet or something, and expand it downwards.
