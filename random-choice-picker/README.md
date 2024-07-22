@@ -1,0 +1,1 @@
+good intro js project showcasing creating different elements by uses commas to seperate each element
