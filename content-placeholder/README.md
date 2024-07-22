@@ -1,0 +1,1 @@
+example card component with gradient load animation
