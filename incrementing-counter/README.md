@@ -1,0 +1,1 @@
+A small but smart way to animate numbers on load. Can be refactored to fit different use cases.
