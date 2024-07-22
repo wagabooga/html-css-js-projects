@@ -1,0 +1,1 @@
+useful for game effect, add game logic to drag and drop abilities to keys or something. this is purely visual
