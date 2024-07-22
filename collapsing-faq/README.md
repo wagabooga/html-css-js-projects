@@ -1,0 +1,1 @@
+toggle active class on the parent node
