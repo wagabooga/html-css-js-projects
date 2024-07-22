@@ -1,0 +1,1 @@
+useful component for a sticky navbar. good boilerplate for simple hero component with navbar
