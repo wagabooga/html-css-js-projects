@@ -1,0 +1,1 @@
+smart movie app with functional search
