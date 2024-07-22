@@ -1,0 +1,1 @@
+align image in foreground carousel with background
