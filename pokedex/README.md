@@ -1,0 +1,1 @@
+fetch data to show cool cards. background colors are made by pokemon type
