@@ -1,0 +1,1 @@
+very simple carousel with prev/next buttons and auto scrolling
