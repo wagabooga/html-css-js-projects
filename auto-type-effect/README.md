@@ -1,0 +1,1 @@
+cool popular auto typing effect that can be used for headers or anything
