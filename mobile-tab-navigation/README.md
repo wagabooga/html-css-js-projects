@@ -1,0 +1,1 @@
+I would really use this component on a React Native app, as it behaves similar to 24hr auction did
