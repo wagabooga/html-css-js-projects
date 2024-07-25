@@ -1,0 +1,1 @@
+simple todo list app. left click to cross out right click to delete
