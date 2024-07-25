@@ -1,0 +1,1 @@
+simple quiz app that calculates total score
